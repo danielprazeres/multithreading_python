@@ -1,6 +1,6 @@
 # multithreading_python
 
-Código com o intuito educacional.
+Código com o intuito educacional (ebac).
 
 Execução desse código permite o web scrapping do site do IMDB, armazenando título de filmes, ano de lançamento e notas recebidas.
 
